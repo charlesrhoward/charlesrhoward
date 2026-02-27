@@ -16,8 +16,6 @@ I went from no-code automation to building full-stack AI products. Now I spend m
 
 🤖 **[models-dilemma](https://github.com/webrenew/models-dilemma)** — The Prisoner's Dilemma, but played by LLMs. A unique approach to evaluating how AI models cooperate, compete, and strategize.
 
-🏨 **[channex-mcp](https://github.com/webrenew/channex-mcp)** — MCP server for Channex.io's API. Manage properties, room types, and rate plans from any MCP client.
-
 ---
 
 ### Tech Stack
