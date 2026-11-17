@@ -29,14 +29,22 @@ Who sponsors H-1B workers, what they pay, and when they file. 3.75M+ DOL Labor C
 **[Pressure](https://github.com/charlesrhoward/pressure)**
 Terminal-native memory investigation for macOS apps. Find the process tree that is growing, watch swap and compression pressure, and export the data for a bug report.
 
-**[Webrenew skills](https://github.com/webrenew/skills)**
-Curated agent skills from the Webrenew team, for sites, content, SEO, leads, and analytics.
-
 **[Unicon](https://unicon.sh)** ([repo](https://github.com/webrenew/unicon))
 Like shadcn, but for icons. 10,000+ icons from Lucide, Phosphor, and Huge Icons as React components or SVGs, with zero bloat.
 
 **[Memories](https://memories.sh)** ([repo](https://github.com/webrenew/memories))
 Durable state for coding agents. Store rules once, recall context, and generate native configs for Claude Code, Cursor, Copilot, and more.
+
+### Skills
+
+**[Webrenew skills](https://github.com/webrenew/skills)**
+Curated agent skills from the Webrenew team, for sites, content, SEO, leads, and analytics.
+
+**[artifacts.space skills](https://github.com/artifacts-space/skills)**
+Let your agent save plans, decisions, and research as artifacts that people can read and comment on.
+
+**[Vmotif skills](https://github.com/vmotif/skills)**
+Teach Claude Code, Codex, Cursor, and other agents to design on a Vmotif canvas through the MCP server.
 
 ---
 
