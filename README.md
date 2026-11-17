@@ -34,9 +34,6 @@ Like shadcn, but for icons. 10,000+ icons from Lucide, Phosphor, and Huge Icons 
 **[Supahost](https://supahost.io)**
 Short-term rental property management. One calendar, one inbox, bulk rates, turnover automations, and two-way sync with Airbnb, Vrbo, and Booking.com.
 
-**[Kelvay](https://kelvay.ai)**
-A private archive for the passwords and secrets you share with the people closest to you.
-
 **[H1B Bench](https://h1b-bench.com)** ([repo](https://github.com/charlesrhoward/h1b-bench))
 Who sponsors H-1B workers, what they pay, and when they file. 3.75M+ DOL Labor Condition Applications from FY2020 to FY2026, benchmarked by employer, occupation, and wage.
 
