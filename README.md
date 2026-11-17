@@ -1,43 +1,58 @@
-# Hey, I'm Charles 👋
+# Charles Howard
 
-**Founder of [Webrenew](https://webrenew.com)** — we build tools that make developers and businesses move faster.
-
-I went from no-code automation to building full-stack AI products. Now I spend my time creating open-source developer tools, shipping AI-powered applications, and helping businesses automate everything that should've been automated years ago.
+Founder of [Webrenew](https://webrenew.com). I build open-source tools for people who work alongside AI agents, and the products that run a few real businesses.
 
 ---
 
-### What I'm Building
+### Agent tools
 
-🧠 **[memories](https://github.com/webrenew/memories)** — Persistent memory layer for AI agents. One memory system that works across Claude Code, Cursor, and every AI tool you use.
+**[artifacts.space](https://artifacts.space)** ([repo](https://github.com/artifacts-space/artifacts-space))
+The collaboration space for humans and agents. Plans, decisions, and reviews live as artifacts that people can read and comment on, and they stay with you when you switch from Claude to Codex.
 
-🎨 **[unicon](https://github.com/webrenew/unicon)** — Shadcn for icons. 19,000+ icons from every major icon library, unified into one developer-friendly package.
+**[Mogplex](https://mogplex.com)** ([repo](https://github.com/Mogplex/mogplex))
+The open-source agent foundry. Coding agents plan, build, test, and review code in sandboxes you can watch, on a platform you can read and self-host. Your gates decide what ships.
 
-✏️ **[drawit](https://github.com/webrenew/drawit)** — An Excalidraw-inspired diagramming tool with agentic AI support for generating diagrams, flowcharts, and wireframes.
+**[memories](https://memories.sh)** ([repo](https://github.com/webrenew/memories))
+Durable state for coding agents. Store rules once, recall context, and generate native configs for Claude Code, Cursor, Copilot, and more.
 
-🤖 **[models-dilemma](https://github.com/webrenew/models-dilemma)** — The Prisoner's Dilemma, but played by LLMs. A unique approach to evaluating how AI models cooperate, compete, and strategize.
+**[skills](https://github.com/webrenew/skills)**
+Curated agent skills from the Webrenew team, for sites, content, SEO, leads, and analytics.
+
+### Design and web
+
+**[Vmotif](https://vmotif.com)** ([MCP server](https://github.com/vmotif/mcp))
+An agentic design canvas. Describe what you want, drop in a reference, connect a few nodes, and Vmotif runs the workflow and ships your assets. Agents can design on the canvas through MCP.
+
+**[Launch](https://webrenew.com)**
+An agentic website builder for GTM teams, solopreneurs, and small businesses. Build, publish, and grow your site with an agent.
+
+**[Unicon](https://unicon.sh)** ([repo](https://github.com/webrenew/unicon))
+Like shadcn, but for icons. 10,000+ icons from Lucide, Phosphor, and Huge Icons as React components or SVGs, with zero bloat.
+
+### Products
+
+**[Supahost](https://supahost.io)**
+Short-term rental property management. One calendar, one inbox, bulk rates, turnover automations, and two-way sync with Airbnb, Vrbo, and Booking.com.
+
+**[Kelvay](https://kelvay.ai)**
+A private archive for the passwords and secrets you share with the people closest to you.
+
+**[H1B Bench](https://h1b-bench.com)** ([repo](https://github.com/charlesrhoward/h1b-bench))
+Who sponsors H-1B workers, what they pay, and when they file. 3.75M+ DOL Labor Condition Applications from FY2020 to FY2026, benchmarked by employer, occupation, and wage.
 
 ---
 
-### Tech Stack
+### Stack
 
 ```
-TypeScript · React · Next.js · Supabase · Tailwind CSS
-Vercel AI SDK · Trigger.dev · Playwright · Node.js
+TypeScript · React · Next.js · Tailwind CSS · Postgres (Supabase, Neon)
+Vercel AI SDK · Trigger.dev · Cloudflare · Playwright · MCP
 ```
 
 ---
 
-### The Numbers
+### Elsewhere
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=charlesrhoward&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlesrhoward&theme=transparent&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
----
-
-### Let's Connect
-
-[![Website](https://img.shields.io/badge/webrenew.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://webrenew.io)
-[![Twitter](https://img.shields.io/badge/@Chrls__Hwrd-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Chrls_Hwrd)
+[![Website](https://img.shields.io/badge/webrenew.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://webrenew.com)
+[![X](https://img.shields.io/badge/@Chrls__Hwrd-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Chrls_Hwrd)
 [![GitHub](https://img.shields.io/badge/webrenew-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webrenew)
