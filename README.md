@@ -39,15 +39,6 @@ Who sponsors H-1B workers, what they pay, and when they file. 3.75M+ DOL Labor C
 
 ---
 
-### Stack
-
-```
-TypeScript · React · Next.js · Tailwind CSS · Postgres (Supabase, Neon)
-Vercel AI SDK · Trigger.dev · Cloudflare · Playwright · MCP
-```
-
----
-
 ### Elsewhere
 
 [![Website](https://img.shields.io/badge/webrenew.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://webrenew.com)
