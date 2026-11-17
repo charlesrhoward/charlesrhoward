@@ -1,6 +1,6 @@
 # Charles Howard
 
-Founder of [Webrenew](https://webrenew.com). I build open-source tools for people who work alongside AI agents, and the products that run a few real businesses.
+Co-Founder of [Webrenew](https://webrenew.com). I build open-source tools for people who work alongside AI agents, and the products that run a few real businesses.
 
 ---
 
