@@ -20,6 +20,9 @@ Short-term rental property management. One calendar, one inbox, bulk rates, turn
 **[artifacts.space](https://artifacts.space)** ([repo](https://github.com/artifacts-space/artifacts-space))
 The collaboration space for humans and agents. Plans, decisions, and reviews live as artifacts that people can read and comment on, and they stay with you when you switch from Claude to Codex.
 
+**[Mogplex](https://mogplex.com)** ([repo](https://github.com/Mogplex/mogplex))
+The open-source agent foundry. Coding agents plan, build, test, and review code in sandboxes you can watch, on a platform you can read and self-host. Your gates decide what ships.
+
 **[H1B Bench](https://h1b-bench.com)** ([repo](https://github.com/charlesrhoward/h1b-bench))
 Who sponsors H-1B workers, what they pay, and when they file. 3.75M+ DOL Labor Condition Applications from FY2020 to FY2026, benchmarked by employer, occupation, and wage.
 
