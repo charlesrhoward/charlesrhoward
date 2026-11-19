@@ -6,7 +6,7 @@ Co-Founder of [Webrenew](https://webrenew.com). I build open-source tools for pe
 
 ### Products
 
-**[Vmotif](https://vmotif.com)** ([MCP server](https://github.com/vmotif/mcp))
+**[Vmotif](https://vmotif.com)**
 An agentic design canvas. Describe what you want, drop in a reference, connect a few nodes, and Vmotif runs the workflow and ships your assets. Agents can design on the canvas through MCP.
 
 **[Webrenew Launch](https://webrenew.com)**
